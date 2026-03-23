@@ -28,6 +28,11 @@
         </developer>
     </developers>
 
+    <scm>
+        <url>https://github.com/Charlex123/nostra-sdk-java</url>
+        <connection>scm:git:git://github.com/Charlex123/nostra-sdk-java.git</connection>
+    </scm>
+
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
