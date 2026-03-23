@@ -29,8 +29,8 @@
     </developers>
 
     <scm>
-        <url>https://github.com/Charlex123/nostrahealthai-sdk-java</url>
-        <connection>scm:git:git://github.com/Charlex123/nostrahealthai-sdk-java.git</connection>
+        <url>https://github.com/Charlex123/nostrahealthai-java</url>
+        <connection>scm:git:git://github.com/Charlex123/nostrahealthai-java.git</connection>
     </scm>
 
     <properties>
